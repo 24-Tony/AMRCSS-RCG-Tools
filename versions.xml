@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<versions>
+	<format>1.2</format>
+	<migration>1.3</migration>
+	<validation>1.0</validation>
+	<generation>1.0</generation>
+</versions>
